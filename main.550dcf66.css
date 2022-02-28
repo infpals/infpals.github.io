@@ -18,17 +18,17 @@
   font-size: 135%;
   font-weight: bold;
   border-radius: 25px;
-  border: 3px solid #2a52be;
+  border: 3px solid #1764e9;
   padding: 15px;
   width: 475px;
   margin-left: 335px;
   text-decoration: none;
-  color: #2a52be;
+  color: #1764e9;
 }
 
 .section-container-spacer .message:hover {
   text-decoration: none;
-  background-color: #2a52be;
+  background-color: #1764e9;
   color: white;
 }
 
