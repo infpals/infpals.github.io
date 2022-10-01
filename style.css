@@ -40,12 +40,18 @@
   }
 
   .content {
-    min-height: 90vh;
+    min-height: 99vh;
     height: 100%;
     margin: 0 auto 60px; /* the bottom margin is the negative value of the footer's height */
 }
+
 .footer {
     height: 60px; /* .push must be the same height as .footer */
+}
+
+.footer img {
+  max-height: 50px;
+  min-width: 100px;
 }
 
 .rounded-circle {
