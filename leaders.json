@@ -50,7 +50,8 @@
     "Year": 2,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
+    "palsYear": "2022-23",
+    "LinkedIn": "https://www.linkedin.com/in/amishi-gangwar/"
 },
 {
     "Name": "Nilesh Gurumurthi",
@@ -64,7 +65,8 @@
     "Year": 3,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
+    "palsYear": "2022-23",
+    "LinkedIn": "https://www.linkedin.com/in/juliaiwanczuk/"
 },
 {
     "Name": "Wietske Holwerda",
@@ -85,12 +87,13 @@
     "Year": 2,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
+    "palsYear": "2022-23",
+    "LinkedIn": "https://www.linkedin.com/in/paulina-gerchuk-40453218a"
 },
 {
     "Name": "Haofei Chen",
     "Year": 2,
-    "Degree": "BSc Computer Science",
+    "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
     "palsYear": "2022-23"
 },
