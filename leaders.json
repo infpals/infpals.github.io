@@ -20,14 +20,16 @@
     "Year": 2,
     "Degree": "BSc Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
+    "palsYear": "2022-23",
+    "LinkedIn":"https://www.linkedin.com/in/anant-k-gupta/"
 },
 {
     "Name": "Arjandeep Singh Bawa",
     "Year": 2,
     "Degree": "BSc Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
+    "palsYear": "2022-23",
+    "LinkedIn": "https://in.linkedin.com/in/arjandeep-singh-bawa-369731220"
 },
 {
     "Name": "Abhay Maurya",
@@ -58,15 +60,8 @@
     "Year": 2,
     "Degree": "BSc Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
-},
-{
-    "Name": "Julia Iwańczuk",
-    "Year": 3,
-    "Degree": "BSc Artificial Intelligence and Computer Science",
-    "Role": "Leader",
     "palsYear": "2022-23",
-    "LinkedIn": "https://www.linkedin.com/in/juliaiwanczuk/"
+    "LinkedIn": "https://www.linkedin.com/in/ggnilesh/"
 },
 {
     "Name": "Wietske Holwerda",
@@ -80,7 +75,8 @@
     "Year": 2,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2022-23"
+    "palsYear": "2022-23",
+    "LinkedIn": "https://www.linkedin.com/in/sara-khatun-g-458225238"
 },
 {
     "Name": "Paulina Gerchuk",
