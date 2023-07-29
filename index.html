@@ -1,158 +1,187 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>InfPALS</title>
-    <!-- CSS only -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
-    <link href="style.css" rel="stylesheet">
-    <link href="bootstrap.css" rel="stylesheet">
-    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
-    <link rel="icon" sizes="192x192" href="img/favicon/android-chrome-192x192.png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16" />
-    <meta name="application-name" content="InfPALS"/>
-</head>
-<body>
-  <div style="border-radius: 0 !important;" class="alert alert-danger alert-dismissible fade show border-0 mb-0" role="alert">
-    <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Info:"><use xlink:href="#info-fill"/>
-    </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-    <symbol id="check-circle-fill" fill="currentColor" viewBox="0 0 16 16">
-      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-    </symbol>
-    <symbol id="info-fill" fill="currentColor" viewBox="0 0 16 16">
-      <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
-    </symbol>
-    <symbol id="exclamation-triangle-fill" fill="currentColor" viewBox="0 0 16 16">
-      <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
-    </symbol>
-    </svg>
-    <strong>We are recruiting for 2023/24!</strong> Click <a href="https://forms.gle/ZfxAKmKTAX7Qjb5Q6">apply</a> to learn more.
-    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-  </div>
-    <div class="content">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="/index.html"><img src="/img/LogoWhite.png" width="150px"/></a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/schedule.html">Session Information</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/team.html">Meet the Team</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/resources.html">Resources</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/contact.html">Contact Us</a>
-              </li>
-              <li class="nav-item">
-                <a class="btn btn-danger" href="https://forms.gle/ZfxAKmKTAX7Qjb5Q6" role="button">Apply</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-      
-      <div id="hero" class="container col-xxl-8 px-4">
-        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-          <div class="col-lg-6">
-            <img src="/img/together.jpg" class="d-block mx-lg-auto img-fluid rounded" alt="team photo" loading="lazy">
-          </div>
-          <div class="col-lg-6">
-            <h1 class="display-5 fw-bold lh-1 mb-3">We are InfPALS 👋</h1>
-            <p class="lead">A group of 2nd and 3rd year students guiding you through challenges with course material and helping you to apply your knowledge in new situations to strengthen your understanding. Together we will ease your transition into your new-found university life!</p>
-            <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-              <a type="button" class="btn btn-primary btn-lg px-4 me-md-2" href="/schedule.html">Session Information</a>
-              <a type="button" class="btn btn-outline-secondary btn-lg px-4" href="/team.html">Meet the Team</a>
-            </div>
-          </div>
-        </div>
-        <div class="container" style="font-size: 30px; text-align: center;"><a href="#offer" >
-            <i class="bi bi-chevron-down bi-align-center"></i>
-        </a></div>
-        
-      </div>
-      <div id="offer" class="container col-xxl-8 px-4 py-2">
-        <h3 class="display-6" style="text-align: center">What do we offer?</h3>
 
-        <div>
-            <div class="row">
-              <div class="col-md-6 d-flex">
-                <div class="card mb-3 flex-fill">
-                    <img class="card-img-top" src="/img/inf1a.png" alt="Card image cap">
-                    <div class="card-body">
-                      <h5 class="card-title">Course Material</h5>
-                      <p class="card-text">During first semester, we are primarily focusing on the content which is taught in the course "Introduction To Computation". We cover both parts of the course which are Computational Logic (CL) as well as Functional Programming (FP). The sessions cover material from the previous week, but our leaders are open to suggestions if you need help with a particular topic.</p>
-                    </div>
-                  </div>
-              </div>
-              <div class="col-md-6 d-flex">
-                <div class="card mb-3 flex-fill">
-                    <img class="card-img-top" src="/img/skills.png" alt="skills" >
-                    <div class="card-body">
-                      <h5 class="card-title">Industry & Academic Skills</h5>
-                      <p class="card-text">Second semester is dedicated to workshops covering topics such as:</p>
-                      <ul>
-                        <li>Command Line</li>
-                        <li>Git & GitHub</li>
-                        <li>Interview Prep & Coding Interviews</li>
-                      </ul>
-                    </div>
-                  </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-6">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="/img/html_css_js.png" alt="Card image cap">
-                    <div class="card-body">
-                      <h5 class="card-title">Projects</h5>
-                      <p class="card-text">We host workshops to develop your skills and portfolio. This year we are doing two entry-level web development projects starting with a Pong clone in Semester 1.</p>
-                    </div>
-                  </div>
-              </div>
-              <div class="col-md-6">
-                <div class="card mb-3">
-                    <img class="card-img-top" src="/img/support.jpg" alt="Card image cap" style="object-fit: cover;">
-                    <div class="card-body">
-                      <h5 class="card-title">Pastoral Support</h5>
-                      <p class="card-text">Our leaders are there to support with not only academic support but also the transition to university life. Some sessions will have dedicated Q&As but questions are always welcome regardless.</p>
-                    </div>
-                  </div>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InfPALS</title>
+  <script src="https://cdn.jsdelivr.net/npm/kute.js@2.2.4/dist/kute.min.js"></script>
+  <script src="rain.js"></script>
+  <!-- CSS only -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet">
+  <link href="bootstrap.css" rel="stylesheet">
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="img/favicon/apple-touch-icon.png" />
+  <link rel="icon" sizes="192x192" href="img/favicon/android-chrome-192x192.png" />
+  <link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16" />
+  <meta name="application-name" content="InfPALS" />
+</head>
+
+<body onload="rain()">
+  <div class="content">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/index.html"><img src="/img/LogoWhite.png" width="150px" /></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/schedule.html">Session Information</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/team.html">Meet the Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/resources.html">Resources</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/contact.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div id="hero" class="container col-xxl-8 px-4">
+      <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class="col-lg-6">
+          <img src="/img/together.jpg" style="border: 5px solid #d9534f; border-radius: 20px!important;" class="d-block mx-lg-auto img-fluid rounded" alt="team photo" loading="lazy">
+        </div>
+        <div class="col-lg-6">
+          <h1 class="display-5 fw-bold lh-1 mb-3">We are InfPALS 👋</h1>
+          <p class="lead">A group of 2nd and 3rd year students guiding you through challenges with course material and
+            helping you to apply your knowledge in new situations to strengthen your understanding. Together we will
+            ease your transition into your new-found university life!</p>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <a type="button" class="btn btn-danger btn-lg px-4 me-md-2" href="/schedule.html">Session Information</a>
+            <a type="button" class="btn btn-outline-secondary btn-lg px-4" href="/team.html">Meet the Team</a>
+          </div>
+        </div>
+      </div>
+      <div class="container" style="font-size: 30px; text-align: center;"><a href="#offer">
+          <i class="bi bi-chevron-down bi-align-center"></i>
+        </a></div>
+
+    </div>
+    
+    <div id="offer" class="container col-xxl-8 px-4 py-2">
+      <h3 class="display-6" style="text-align: center">What do we offer?</h3>
+
+      <div>
+        <div class="row">
+          <div class="col-md-6 d-flex">
+            <div class="card mb-3 flex-fill">
+              <img class="card-img-top" src="/img/inf1a.png" alt="INF1A">
+              <div class="card-body">
+                <h5 class="card-title">Course Material</h5>
+                <p class="card-text">During first semester, we are primarily focusing on the content which is taught in
+                  the course "Introduction To Computation". We cover both parts of the course which are Computational
+                  Logic (CL) as well as Functional Programming (FP). The sessions cover material from the previous week,
+                  but our leaders are open to suggestions if you need help with a particular topic.</p>
               </div>
             </div>
           </div>
+          <div class="col-md-6 d-flex">
+            <div class="card mb-3 flex-fill">
+              <img class="card-img-top" src="/img/skills.png" alt="skills">
+              <div class="card-body">
+                <h5 class="card-title">Industry & Academic Skills</h5>
+                <p class="card-text">Second semester is dedicated to workshops covering topics such as:</p>
+                <ul>
+                  <li>Command Line</li>
+                  <li>Git & GitHub</li>
+                  <li>Interview Prep & Coding Interviews</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="card mb-3">
+              <img class="card-img-top" src="/img/pong.png" alt="Project"
+                style="object-fit: cover;border: 1px solid #1c1c1c">
+              <div class="card-body">
+                <h5 class="card-title">Projects</h5>
+                <p class="card-text">We host workshops to develop your skills and portfolio to help students get
+                  experience. We have previously built websites, games and more. See <a
+                    href="https://infpals.github.io/ip2023-big-project-1-final/">one of the projects we built last
+                    year!</a> </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="card mb-3">
+              <img class="card-img-top" src="/img/support.jpg" alt="Support" style="object-fit: cover;">
+              <div class="card-body">
+                <h5 class="card-title">Pastoral Support</h5>
+                <p class="card-text">Our leaders are there to support with not only academic support but also the
+                  transition to university life. Some sessions will have dedicated Q&As but questions are always welcome
+                  regardless.</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-      
+  </div>
 
-      <nav class="footer navbar navbar-expand-lg navbar-dark bg-primary">
-        <div class="col-1"></div>
-        <div class="col-2">
-            <a href="https://www.ed.ac.uk/informatics"><img src="/img/infLogo.png" class="img-fluid" style="opacity: 0.9;"/></a>
-            
-          </div>
-      
-          <ul class="col-8 justify-content-end nav">
-            <li class=""><a class="text-muted" href="https://www.instagram.com/infpals/"><i class="bi bi-instagram"></i></a></li>
-          </ul>
-      </nav>
-    
 
-      <!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
+
+  <nav class="footer navbar navbar-expand-lg navbar-dark bg-primary">
+    <svg id="footer-blob" width="100%" height="300%" viewBox="0 0 960 300" preserveAspectRatio="none"
+      xmlns="http://www.w3.org/2000/svg" class="blob">
+      xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+      <g>
+        <path id="footer-blob-1"
+          d="M0 197L26.7 190.7C53.3 184.3 106.7 171.7 160 170.3C213.3 169 266.7 179 320 176.7C373.3 174.3 426.7 159.7 480 158.3C533.3 157 586.7 169 640 173.8C693.3 178.7 746.7 176.3 800 170.8C853.3 165.3 906.7 156.7 933.3 152.3L960 148L960 301L933.3 301C906.7 301 853.3 301 800 301C746.7 301 693.3 301 640 301C586.7 301 533.3 301 480 301C426.7 301 373.3 301 320 301C266.7 301 213.3 301 160 301C106.7 301 53.3 301 26.7 301L0 301Z"
+          fill="#d9534f" stroke-linecap="round" stroke-linejoin="miter"></path>
+      </g>
+      <g style="visibility: hidden;">
+        <path id="footer-blob-2"
+          d="M0 172L26.7 172.3C53.3 172.7 106.7 173.3 160 179.5C213.3 185.7 266.7 197.3 320 201.2C373.3 205 426.7 201 480 192.5C533.3 184 586.7 171 640 162.8C693.3 154.7 746.7 151.3 800 159.8C853.3 168.3 906.7 188.7 933.3 198.8L960 209L960 301L933.3 301C906.7 301 853.3 301 800 301C746.7 301 693.3 301 640 301C586.7 301 533.3 301 480 301C426.7 301 373.3 301 320 301C266.7 301 213.3 301 160 301C106.7 301 53.3 301 26.7 301L0 301Z"
+          fill="#d9534f" stroke-linecap="round" stroke-linejoin="miter"></path>
+      </g>
+      <g>
+        <path id="footer-blob-static"
+          d="M0 260L26.7 261.3C53.3 262.7 106.7 265.3 160 265.8C213.3 266.3 266.7 264.7 320 265.2C373.3 265.7 426.7 268.3 480 268.8C533.3 269.3 586.7 267.7 640 267.2C693.3 266.7 746.7 267.3 800 268.8C853.3 270.3 906.7 272.7 933.3 273.8L960 275L960 301L933.3 301C906.7 301 853.3 301 800 301C746.7 301 693.3 301 640 301C586.7 301 533.3 301 480 301C426.7 301 373.3 301 320 301C266.7 301 213.3 301 160 301C106.7 301 53.3 301 26.7 301L0 301Z"
+          fill="#d9534f" stroke-linecap="round" stroke-linejoin="miter"></path>
+      </g>
+    </svg>
+    <script>
+      const tween = KUTE.fromTo('#footer-blob-1', { path: '#footer-blob-1' }, { path: '#footer-blob-2' }, { repeat: 999, duration: 2000, yoyo: true });
+      tween.start();
+    </script>
+
+    <div class="col-1"></div>
+    <div class="col-2">
+      <a href="https://www.ed.ac.uk/informatics"><img src="/img/infLogo.png" class="img-fluid" style="opacity: 0.9;" /></a>
+
+    </div>
+
+    <ul class="col-8 justify-content-end nav">
+      <li class=""><a class="text-white" href="https://www.instagram.com/infpals/"><i class="bi bi-instagram"></i></a>
+      </li>
+    </ul>
+  </nav>
+
+
+
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+    crossorigin="anonymous"></script>
 </body>
+
 </html>

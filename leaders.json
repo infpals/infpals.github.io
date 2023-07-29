@@ -1,4 +1,98 @@
-[{
+[
+{
+    "Name": "Paulina Gerchuk",
+    "Year": 3,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "SSL",
+    "palsYear": "2023-24",
+    "email": "pgerchuk@ed.ac.uk"
+},
+{
+    "Name": "Elliot Lister",
+    "Year": 4,
+    "Degree": "BSc Computer Science and Mathematics",
+    "Role": "SSL",
+    "palsYear": "2023-24",
+    "email": "Elliot.Lister@ed.ac.uk"
+},
+{
+    "Name": "Naima Malik",
+    "Year": 2,
+    "Degree": "",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Arindam Bag",
+    "Year": 2,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Kenton Tang",
+    "Year": 2,
+    "Degree": "MInf Informatics",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Tanisha Agarwal",
+    "Year": 2,
+    "Degree": "BSc Computer Science and Mathematics",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Aryan Sharma",
+    "Year": 3,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Ethan Cheam Kai Jun",
+    "Year": 2,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Aman Sharma",
+    "Year": 2,
+    "Degree": "BSc Computer Science",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Shreeya Varma",
+    "Year": 2,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Rohit Allen",
+    "Year": 2,
+    "Degree": "",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Hanson Siu",
+    "Year": 2,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
+    "Name": "Ishani Raj",
+    "Year": 2,
+    "Degree": "",
+    "Role": "Leader",
+    "palsYear": "2023-24"
+},
+{
     "Name": "Elliot Lister",
     "Year": 3,
     "Degree": "BSc Computer Science and Mathematics",
