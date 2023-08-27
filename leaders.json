@@ -1,13 +1,5 @@
 [
 {
-    "Name": "Paulina Gerchuk",
-    "Year": 3,
-    "Degree": "BSc Artificial Intelligence and Computer Science",
-    "Role": "SSL",
-    "palsYear": "2023-24",
-    "email": "pgerchuk@ed.ac.uk"
-},
-{
     "Name": "Elliot Lister",
     "Year": 4,
     "Degree": "BSc Computer Science and Mathematics",
@@ -16,18 +8,29 @@
     "email": "Elliot.Lister@ed.ac.uk"
 },
 {
+    "Name": "Paulina Gerchuk",
+    "Year": 3,
+    "Degree": "BSc Artificial Intelligence and Computer Science",
+    "Role": "SSL",
+    "palsYear": "2023-24",
+    "email": "pgerchuk@ed.ac.uk",
+    "LinkedIn": "https://www.linkedin.com/in/paulina-gerchuk-40453218a"
+},
+{
     "Name": "Naima Malik",
     "Year": 2,
-    "Degree": "",
+    "Degree": "BEng Software Engineering",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "www.linkedin.com/in/naima-malik-032a37248"
 },
 {
     "Name": "Arindam Bag",
     "Year": 2,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "https://www.linkedin.com/in/arindam-bag-b35070170"
 },
 {
     "Name": "Kenton Tang",
@@ -39,42 +42,39 @@
 {
     "Name": "Tanisha Agarwal",
     "Year": 2,
-    "Degree": "BSc Computer Science and Mathematics",
-    "Role": "Leader",
-    "palsYear": "2023-24"
-},
-{
-    "Name": "Aryan Sharma",
-    "Year": 3,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "https://www.linkedin.com/in/tanisha-agarwal-97a15a1b1"
 },
 {
     "Name": "Ethan Cheam Kai Jun",
     "Year": 2,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "linkedin.com/in/ethan-cheam-7a5ab0207"
 },
 {
     "Name": "Aman Sharma",
     "Year": 2,
-    "Degree": "BSc Computer Science",
+    "Degree": "BEng Computer Science",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "www.linkedin.com/in/aman-sharma-992a6a285"
 },
 {
     "Name": "Shreeya Varma",
     "Year": 2,
     "Degree": "BSc Artificial Intelligence and Computer Science",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "https://www.linkedin.com/in/shreeya-varma"
 },
 {
     "Name": "Rohit Allen",
-    "Year": 2,
-    "Degree": "",
+    "Year": 3,
+    "Degree": "BSc Computer Science",
     "Role": "Leader",
     "palsYear": "2023-24"
 },
@@ -88,9 +88,10 @@
 {
     "Name": "Ishani Raj",
     "Year": 2,
-    "Degree": "",
+    "Degree": "BSc Computer Science",
     "Role": "Leader",
-    "palsYear": "2023-24"
+    "palsYear": "2023-24",
+    "LinkedIn": "https://www.linkedin.com/in/ishani-raj-482948248"
 },
 {
     "Name": "Elliot Lister",
