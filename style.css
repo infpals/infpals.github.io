@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@700&display=swap');
+
 .card-img-top {
   width: 100%;
   align-content: flex-start;
@@ -196,3 +198,50 @@ select option:checked {
   color: white!important;
 }
 
+.infoTable {
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 16px;
+  border: none!important;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  text-align: center;
+}
+
+.infoTable th, .infoTable td {
+  border-top: none!important;
+  border-bottom: none;
+  border-bottom-width: 0px !important;
+}
+
+.infoTable th:nth-child(1) {
+  background-color: #400101;
+}
+
+.infoTable td:nth-child(1) {
+  background-color: #212121;
+  color: #d5d5d5;
+}
+
+.table-header {
+  background-color: #2d3847;
+  color: #d5d5d5;
+  font-size: 150%;
+}
+
+@media only screen and (max-width: 768px) {
+  .table-header {
+    background-color: #2d3847;
+    color: #d5d5d5;
+    font-size: 100%;
+  }
+}
+
+.table-row-body {
+  background-color: #d5d5d5;
+  color: #2d3847;
+}
+
+.rounded-table {
+  border-radius: 10px;
+  overflow: hidden;
+}
