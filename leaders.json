@@ -1,5 +1,85 @@
 [
     {
+        "Name": "Paulina Gerchuk",
+        "Year": 4,
+        "Degree": "BSc Computer Science and Artificial Intelligence",
+        "Role": "SSL",
+        "palsYear": "2024-25",
+        "email": "pgerchuk@ed.ac.uk",
+        "LinkedIn": "https://www.linkedin.com/in/paulina-gerchuk/"
+    },
+    {
+        "Name": "Wietske Holwerda",
+        "Year": 4,
+        "Degree": "BSc Computer Science",
+        "Role": "SSL",
+        "palsYear": "2024-25",
+        "email": "wietskeholwerd@ed.ac.uk",
+        "LinkedIn": "https://www.linkedin.com/in/wietskeh/"
+    },
+    {
+        "Name": "Jessie Lim",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2024-25"
+    },
+    {
+        "Name": "Shivangi Kamat",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "LinkedIn": "https://www.linkedin.com/in/shivangikamat/"
+    },
+    {
+        "Name": "Ilmi Hakam",
+        "Year": 3,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "LinkedIn": "https://uk.linkedin.com/in/muhammad-ilmi-hakam-amin-ariff-6950402a2"
+    },
+    {
+        "Name": "Oishani Dutta",
+        "Year": 4,
+        "Degree": "BSc Computer Science and Artificial Intelligence",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "LinkedIn": "https://www.linkedin.com/in/oishani-dutta-82768a256/"
+    },
+    {
+        "Name": "Roberta Pošiūnaitė",
+        "Year": 4,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "LinkedIn": "https://www.linkedin.com/in/roberta-posiunaite/"
+    },
+    {
+        "Name": "Tallulah Thompson",
+        "Year": 2,
+        "Degree": "MInf Informatics",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "LinkedIn": "https://www.linkedin.com/in/tallulah-thompson-5550391b2/"
+    },
+    {
+        "Name": "Ao Zhang",
+        "Year": 2,
+        "Degree": "BSc Computer Science and Artificial Intelligence",
+        "Role": "Leader",
+        "palsYear": "2024-25"
+    },
+    {
+        "Name": "Ritvik Gupta",
+        "Year": 2,
+        "Degree": "BSc Computer Science and Artificial Intelligence",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "LinkedIn": "https://www.linkedin.com/in/guptaritvik/"
+    },
+    {
         "Name": "Elliot Lister",
         "Year": 4,
         "Degree": "BSc Computer Science and Mathematics",
@@ -117,7 +197,7 @@
         "Degree": "BSc Computer Science",
         "Role": "Leader",
         "palsYear": "2022-23",
-        "LinkedIn":"https://www.linkedin.com/in/anant-k-gupta/"
+        "LinkedIn": "https://www.linkedin.com/in/anant-k-gupta/"
     },
     {
         "Name": "Arjandeep Singh Bawa",
@@ -189,95 +269,5 @@
         "Degree": "BSc Artificial Intelligence and Computer Science",
         "Role": "Leader",
         "palsYear": "2022-23"
-    },
-    {
-        "Name": "Patricia Mizurova",
-        "Year": 3,
-        "Degree": "BSc Computer Science and Mathematics",
-        "Role": "SSL",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://www.linkedin.com/in/patricia-mizurova-829587149/"
-    },
-    {
-        "Name": "Alejandra Amaro Patiño",
-        "Year": 4,
-        "Degree": "BSc Computer Science and Mathematics",
-        "Role": "SSL",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://www.linkedin.com/in/aamaropatino/"
-    },
-    {
-        "Name": "Josué Fleitas Sánchez",
-        "Year": 2,
-        "Degree": "BSc Artificial Intelligence and Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://www.linkedin.com/in/josu%C3%A9-fleitas/"
-    },
-    {
-        "Name": "Julia Iwańczuk",
-        "Year": 2,
-        "Degree": "BSc Artificial Intelligence and Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://www.linkedin.com/in/juliaiwanczuk/"
-    },
-    {
-        "Name": "Kryštof Bezděk",
-        "Year": 2,
-        "Degree": "BSc Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22"
-    },
-    {
-        "Name": "Laura O'Sullivan",
-        "Year": 2,
-        "Degree": "BSc Computer Science and Mathematics",
-        "Role": "Leader",
-        "palsYear": "2021-22"
-    },
-    {
-        "Name": "Chen Qing Wen",
-        "Year": 2,
-        "Degree": "BSc Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22"
-    },
-    {
-        "Name": "Hafizuddin Sharif Umar Sharif",
-        "Year": 3,
-        "Degree": "BSc Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://www.linkedin.com/in/hafizuddin-sharif-umar-sharif"
-    },
-    {
-        "Name": "Karthik Narayanan",
-        "Year": 2,
-        "Degree": "BSc Artificial Intelligence and Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://www.linkedin.com/in/karthik-narayanan72/"
-    },
-    {
-        "Name": "Zofia Kniter",
-        "Year": 2,
-        "Degree": "BSc Computer Science and Mathematics",
-        "Role": "Leader",
-        "palsYear": "2021-22"
-    },
-    {
-        "Name": "Nisiman",
-        "Year": 2,
-        "Degree": "BSc Computer Science",
-        "Role": "Leader",
-        "palsYear": "2021-22",
-        "LinkedIn": "https://linkedin.com/in/nisiman"
-    },
-    {
-        "Name": "Elliot Lister",
-        "Year": 2,
-        "Degree": "BSc Computer Science and Mathematics",
-        "Role": "Leader",
-        "palsYear": "2021-22"
-    }]
+    }
+]
