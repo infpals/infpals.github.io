@@ -1,5 +1,46 @@
 [
     {
+        "Name": "Jakub Rimmer",
+        "Year": 4,
+        "Degree": "BSc Computer Science and Mathematics",
+        "Role": "SSL",
+        "palsYear": "2025-26",
+        "email": "s2210656@ed.ac.uk",
+        "LinkedIn": "www.linkedin.com/in/rimmerjakub"
+    },
+    {
+        "Name": "Ao Zhang",
+        "Year": 3,
+        "Degree": "BSc Computer Science and Artificial Intelligence",
+        "Role": "SSL",
+        "palsYear": "2025-26",
+        "email": "A.Zhang-26@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Taiki Ambai",
+        "Year": 2,
+        "Degree": "BSc Computer Science and Mathematics",
+        "Role": "Leader",
+        "palsYear": "2025-26",
+        "LinkedIn": "https://www.linkedin.com/in/taiki-ambai/"
+    },
+    {
+        "Name": "Cynthia Chen",
+        "Year": 2,
+        "Degree": "MInf Informatics",
+        "Role": "Leader",
+        "palsYear": "2025-26"
+    },
+    {
+        "Name": "Mostafa Ebid",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2025-26",
+        "LinkedIn":"https://www.linkedin.com/in/mebid01/"
+    },
+    
+    {
         "Name": "Paulina Gerchuk",
         "Year": 4,
         "Degree": "BSc Computer Science and Artificial Intelligence",
