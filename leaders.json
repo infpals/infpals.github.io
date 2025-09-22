@@ -32,6 +32,29 @@
         "palsYear": "2025-26"
     },
     {
+        "Name": "Amelia Chapman",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2025-26",
+        "LinkedIn":"https://www.linkedin.com/in/amelia-r-chapman"
+    },
+    {
+        "Name": "Igi Gudel",
+        "Year": 3,
+        "Degree": "MInf Informatics",
+        "Role": "Leader",
+        "palsYear": "2025-26",
+        "LinkedIn":"https://www.linkedin.com/in/ignacy-gudel/"
+    },
+    {
+        "Name": "Lucien Neale",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2025-26"
+    },
+    {
         "Name": "Mostafa Ebid",
         "Year": 2,
         "Degree": "BSc Computer Science",
