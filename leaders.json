@@ -63,6 +63,13 @@
         "LinkedIn":"https://www.linkedin.com/in/alyssa-tonolete"
     },
     {
+        "Name": "Sarah Simon",
+        "Year": 2,
+        "Degree": "BEng Computer Science",
+        "Role": "Leader",
+        "palsYear": "2025-26"
+    },
+    {
         "Name": "Mostafa Ebid",
         "Year": 2,
         "Degree": "BSc Computer Science",
