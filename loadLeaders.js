@@ -100,6 +100,14 @@ document.addEventListener('DOMContentLoaded', function() {
       emailLink.append(emailIcon)
       contacts.append(emailLink)
     }
+    if (data.GitHub) {
+      let githubLink = document.createElement('a')
+      githubLink.href = data.GitHub
+      let githubIcon = document.createElement('i')
+      githubIcon.className = "bi bi-github"
+      githubLink.append(githubIcon)
+      contacts.append(githubLink)
+    }
     row = document.getElementById(data.Role)
 
     cardBody.append(photo)

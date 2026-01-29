@@ -6,7 +6,8 @@
         "Role": "SSL",
         "palsYear": "2025-26",
         "email": "s2210656@ed.ac.uk",
-        "LinkedIn": "https://www.linkedin.com/in/rimmerjakub/"
+        "LinkedIn": "https://www.linkedin.com/in/rimmerjakub/",
+        "GitHub": "https://github.com/Jacket1989"
     },
     {
         "Name": "Ao Zhang",
@@ -45,7 +46,8 @@
         "Degree": "MInf Informatics",
         "Role": "Leader",
         "palsYear": "2025-26",
-        "LinkedIn":"https://www.linkedin.com/in/ignacy-gudel/"
+        "LinkedIn":"https://www.linkedin.com/in/ignacy-gudel/",
+        "GitHub": "https://github.com/Igi-Gudel"
     },
     {
         "Name": "Lucien Neale",
@@ -77,7 +79,16 @@
         "palsYear": "2025-26",
         "LinkedIn":"https://www.linkedin.com/in/mebid01/"
     },
-    
+    {
+        "Name": "Igi Gudel",
+        "Year": 2,
+        "Degree": "MInf Informatics",
+        "Role": "Leader",
+        "palsYear": "2024-25",
+        "email": "ignacy.gudel7@gmail.com",
+        "LinkedIn":"https://www.linkedin.com/in/ignacy-gudel/",
+        "GitHub": "https://github.com/Igi-Gudel"
+    },
     {
         "Name": "Paulina Gerchuk",
         "Year": 4,
