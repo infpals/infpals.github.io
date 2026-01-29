@@ -241,7 +241,7 @@ select option:checked {
   color: #2d3847;
 }
 
-.infoTable .flex-week-row td{
+.flex-week-row td{
   background-color: #212121 !important;
   color: #d5d5d5 !important;
 }
