@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
             createCard(person)
         }
     } else {
-        for (var person of data.filter(a => a.palsYear == "2025-26")) {
+        for (var person of data.filter(a => a.palsYear == "2026-27")) {
             createCard(person)
         }
     }

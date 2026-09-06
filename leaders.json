@@ -1,5 +1,95 @@
 [
     {
+        "Name": "Ao Zhang",
+        "Year": 4,
+        "Degree": "BSc Computer Science and Artificial Intelligence",
+        "Role": "SSL",
+        "palsYear": "2026-27",
+        "email": "a.zhang-26@sms.ed.ac.uk",
+        "LinkedIn": "https://www.linkedin.com/in/ao-zhang0818/"
+    },
+    {
+        "Name": "Tallulah Thompson",
+        "Year": 4,
+        "Degree": "BSc Computer Science",
+        "Role": "SSL",
+        "palsYear": "2026-27",
+        "email": "T.A.S.Thompson@sms.ed.ac.uk",
+        "LinkedIn": "https://www.linkedin.com/in/tallulah-t/"
+    },
+    {
+        "Name": "Aarush Patel",
+        "Year": 4,
+        "Degree": "BSc Computer Science and Mathematics",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "A.Patel-26@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Bradley Austin",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "B.V.K.Austin@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Rory Condict",
+        "Year": 2,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "R.Condict@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Aryan Ajmera",
+        "Year": 2,
+        "Degree": "Artificial Intelligence and Computer Science",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "A.Ajmera@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Ann Achato",
+        "Year": 3,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "A.A.Achato@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Tracey Olushina",
+        "Year": 3,
+        "Degree": "BSc Computer Science",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "T.T.Olushina@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Kaisha Kapoor",
+        "Year": 2,
+        "Degree": "BSc Computer Science and Mathematics",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "K.Kapoor-5@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Justin Chen",
+        "Year": 4,
+        "Degree": "BSc Artificial Intelligence",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "Z.Chen-195@sms.ed.ac.uk"
+    },
+    {
+        "Name": "Oleksandra Bondarchuk",
+        "Year": 3,
+        "Degree": "BSc Computer Science and Mathematics",
+        "Role": "Leader",
+        "palsYear": "2026-27",
+        "email": "O.Bondarchuk@sms.ed.ac.uk" 
+    },
+    {
         "Name": "Jakub Rimmer",
         "Year": 4,
         "Degree": "BSc Computer Science and Mathematics",
